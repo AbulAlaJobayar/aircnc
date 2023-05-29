@@ -1,0 +1,19 @@
+{
+  "name": "aircnc-part1-starter",
+  "version": "1.0.0",
+  "description": "Hosted in Firebase -> [AirCNC](https://aircnc-68403.web.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakilahmedatik/aircnc-part1-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakilahmedatik/aircnc-part1-starter/issues"
+  },
+  "homepage": "https://github.com/shakilahmedatik/aircnc-part1-starter#readme"
+}
